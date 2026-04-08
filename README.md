@@ -92,12 +92,13 @@ TailwindCss
 
 ---
 
-### 💰 Budget Planner Web App
+### 💰 Expense Tracker Web App
 
 ✔ Java  
-✔ JDBC  
-✔ Servlets  
-✔ MySQL  
+✔ Spring Boot  
+✔ ReactJs
+✔ Rest Api  
+✔ MySQL
 
 ---
 
