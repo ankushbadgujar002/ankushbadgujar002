@@ -100,13 +100,16 @@ Motivated Java Developer with strong knowledge of **Spring Boot**, **MySQL**, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushbadgujar002&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushbadgujar002&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushbadgujar002&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushbadgujar002&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushbadgujar002&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ⚡ **Fun Fact:** I turn coffee ☕ into code 💻
