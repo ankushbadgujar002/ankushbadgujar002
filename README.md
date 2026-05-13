@@ -10,8 +10,8 @@
 
 - 🎓 Information Technology Graduate (2024)
 - 💻 Passionate Java Developer & Full Stack Enthusiast
-- 🌱 Currently learning **Spring Boot & ReactJs**
-- 🔭 Currently working on **Employee Management System**
+- 🌱 Ask me about **Spring Boot & ReactJs**
+- 🔭 Currently working on **New Project...**
 - 👯 Looking for **Java Developer / Software Developer** Opportunities
 - ⚡ Love building Scalable Backend & Modern Frontend Applications
 - 📫 Reach me at: **ankushbadgujar1122002@gmail.com**
