@@ -47,9 +47,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -67,12 +64,11 @@
 ## 📂 Featured Projects
 
 ### 🚀 Animated Portfolio
-> Fully animated single-page portfolio — React + Vite, Three.js R3F, GSAP, Framer Motion, Lenis
+> Fully animated single-page portfolio — React + Vite
 
 🔗 **Live:** [badgujar-portfolio.netlify.app](https://badgujar-portfolio.netlify.app)
 
-✔ React + Vite &nbsp; ✔ Three.js R3F &nbsp; ✔ GSAP ScrollTrigger &nbsp; ✔ Framer Motion &nbsp; ✔ Tailwind CSS v4 &nbsp; ✔ Lenis Smooth Scroll
-
+✔ React + Vite &nbsp; ✔ Tailwind CSS v4 &nbsp;
 [![Repo](https://img.shields.io/badge/View-Repo-6366f1?style=flat-square&logo=github)](https://github.com/ankushbadgujar002/ankush-portfolio)
 
 ---
@@ -128,19 +124,6 @@
 ✔ React &nbsp; ✔ React Hooks &nbsp; ✔ JavaScript &nbsp; ✔ CSS &nbsp; ✔ GitHub Actions
 
 [![Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/ankushbadgujar002/todo-list-project)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushbadgujar002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushbadgujar002&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushbadgujar002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
